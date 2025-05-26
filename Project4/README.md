@@ -1,6 +1,4 @@
 
-**README.md:**
-```markdown
 # ⛅ Weather Info Fetcher
 
 ## Цел
