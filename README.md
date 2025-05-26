@@ -13,7 +13,7 @@
 🔹 [Project 1](Project1/README.md) - Task Manager API  
 🔹 [Project 2](Project2/README.md) - Simple Calculator  
 🔹 [Project 3](Project3/README.md) - Contacts Manager  
-🔹 [Project 4](Project4/README.md) - Кратко описание  
+🔹 [Project 4](Project4/README.md) - Weather Info Fetcher  
 
 ## 📄 CV & Контакти  
 Можете да разгледате моето CV на моята [ https://elitrajanovska.github.io/ ](https://твоето_потребителско_име.github.io/MyPortfolio).  
