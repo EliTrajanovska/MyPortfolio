@@ -1,5 +1,4 @@
 
-```markdown
 # 🧮 Simple Calculator
 
 ## Цел
