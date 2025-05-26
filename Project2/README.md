@@ -1,5 +1,4 @@
 
-**README.md:**
 ```markdown
 # 🧮 Simple Calculator
 
