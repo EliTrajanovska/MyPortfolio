@@ -12,7 +12,7 @@
 ## 🏆 Проекти  
 🔹 [Project 1](Project1/README.md) - Task Manager API  
 🔹 [Project 2](Project2/README.md) - Simple Calculator  
-🔹 [Project 3](Project3/README.md) - Кратко описание  
+🔹 [Project 3](Project3/README.md) - Contacts Manager  
 🔹 [Project 4](Project4/README.md) - Кратко описание  
 
 ## 📄 CV & Контакти  
