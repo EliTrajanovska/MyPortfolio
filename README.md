@@ -16,7 +16,7 @@
 🔹 [Project 4](Project4/README.md) - Кратко описание  
 
 ## 📄 CV & Контакти  
-Можете да разгледате моето CV на моята [ https://elitrajanovska.github.io ](https://твоето_потребителско_име.github.io/MyPortfolio).  
+Можете да разгледате моето CV на моята [ https://elitrajanovska.github.io/ ](https://твоето_потребителско_име.github.io/MyPortfolio).  
 
 
 📧 Email: elitrajanovska@gmail.com  
