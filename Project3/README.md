@@ -1,6 +1,4 @@
 
-**README.md:**
-```markdown
 # 📇 Contacts Manager
 
 ## Цел
